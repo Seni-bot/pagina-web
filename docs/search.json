@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "blog",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Maximiliano Medina",
+    "section": "",
+    "text": "Estudiante de Estadística UC."
+  },
+  {
+    "objectID": "index.html#educación",
+    "href": "index.html#educación",
+    "title": "Maximiliano Medina",
+    "section": "Educación",
+    "text": "Educación\nPontificia Universidad Católica de Chile | Santiago.\nEstadística | Marzo 2019 - Diciembre 2024"
+  },
+  {
+    "objectID": "index.html#experiencia",
+    "href": "index.html#experiencia",
+    "title": "Maximiliano Medina",
+    "section": "Experiencia",
+    "text": "Experiencia\nAyudante MAT0007 | Marzo 2022 - Junio 2022\nAyudante MAT1100 | Agosto 2022 - presente\nq pijas se yo :’v"
+  },
+  {
+    "objectID": "otras-actividades.html",
+    "href": "otras-actividades.html",
+    "title": "otras-actividades",
+    "section": "",
+    "text": "otras actividades"
+  },
+  {
+    "objectID": "posts/analisis-1.html",
+    "href": "posts/analisis-1.html",
+    "title": "Analisis 1",
+    "section": "",
+    "text": "Aca va el analisis 1"
+  },
+  {
+    "objectID": "posts/analisis-2.html",
+    "href": "posts/analisis-2.html",
+    "title": "analisis 2",
+    "section": "",
+    "text": "analisis 2"
+  }
+]

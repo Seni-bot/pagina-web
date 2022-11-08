@@ -1,0 +1,7 @@
+---
+title: "Analisis 1"
+editor: visual
+image : IMG_0092.jpg
+---
+
+Aca va el analisis 1

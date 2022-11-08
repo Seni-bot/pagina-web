@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: f936e74e-3a52-4670-9906-e6d03df735f4
+      url: 'https://mmedv001.netlify.app'

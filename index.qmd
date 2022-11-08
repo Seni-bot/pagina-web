@@ -1,0 +1,29 @@
+---
+title: "Maximiliano Medina"
+about:
+  template: solana
+  image: imagenes/IMG_0091.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/lSenn__
+    - icon: github
+      text: Github
+      href: https://github.com/Seni-bot/
+---
+
+Estudiante de Estadística UC.
+
+## Educación
+
+Pontificia Universidad Católica de Chile | Santiago.
+
+Estadística | Marzo 2019 - Diciembre 2024
+
+## Experiencia
+
+Ayudante MAT0007 | Marzo 2022 - Junio 2022
+
+Ayudante MAT1100 | Agosto 2022 - presente
+
+q pijas se yo :'v
